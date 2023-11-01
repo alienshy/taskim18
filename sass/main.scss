@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    padding: 0px 32px;
+    max-width: 1400px;
+}
+
+@import '../sasswatching/header';
+@import '../sasswatching/section';
+@import '../sasswatching/foother';
